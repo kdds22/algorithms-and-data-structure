@@ -11,5 +11,5 @@ def insertion_sort(A):
         
 A = [22,30,12,15,89,2,1,55,3,90,8]
 insertion_sort(A)
-print(A)
+print(A) //[1, 2, 3, 8, 12, 15, 22, 30, 55, 89, 90]
 
